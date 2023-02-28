@@ -1,2 +1,1 @@
-Bienvendios!!!!!
-Adios!!!!;
+let arr= ['hola',2,3];
